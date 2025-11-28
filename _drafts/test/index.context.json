@@ -1,0 +1,18 @@
+ {
+    "parent": "index.json",
+    "context": {
+      "draft": "test"
+    },
+    "sections": {
+      "hero_jVaWmY": {
+        "settings": {},
+        "blocks": {
+          "text_YLPk4p": {
+            "settings": {
+              "text": "<p>Please Browse</p>"
+            }
+          }
+        }
+      }
+    }
+  }
